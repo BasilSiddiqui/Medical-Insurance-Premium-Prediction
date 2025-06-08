@@ -132,5 +132,3 @@ predicted_premium = model.predict(sample_input)[0]
 **Basil Rehan**
 Data Analyst | Actuarial Science & Data Science Student
 📍 Dubai
-
-```
